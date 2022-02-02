@@ -1,0 +1,15 @@
+body{background-color:burlywood}
+h1{color:rgb(151, 44, 2);text-align:center}
+div.zona{height: 4px;
+    background-color: black;
+}
+div.carta{
+    position: relative; bottom: -20px;
+    text-align: left;}
+div.cafe{
+    text-align: center; 
+    position: relative; bottom: -50px;
+}
+div.contacto{
+    text-align: right;
+}
